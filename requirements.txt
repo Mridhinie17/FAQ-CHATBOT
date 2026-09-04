@@ -1,0 +1,26 @@
+# Project dependencies
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+bertopic
+hdbscan
+umap-learn
+transformers
+datasets
+evaluate
+accelerate
+torch
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+pydantic
+streamlit
+groq
+python-dotenv
+kagglehub
+jupyter
+notebook
